@@ -25,7 +25,7 @@ Veri tabanındaki tabloların adları, alanları ve içerikleri aşağıdaki gib
 
 ![WhatsApp Görsel 2024-02-08 saat 21 19 45_be08700e](https://github.com/nnurrs/Kutuphane-Otomasyonu_Qt-Qreator/assets/96475696/c1faf52a-43bb-4e74-803a-270d574ad90c)  
 
-**- Proje ile ilgili bazı genel görseller aşağıdaki gibidir.**
+**- Proje ile ilgili bazı genel görseller aşağıdaki gibidir:**
 
 ### 1- Giriş Ekranı  
 ![WhatsApp Görsel 2024-02-08 saat 20 56 22_8fd93cf5](https://github.com/nnurrs/Kutuphane-Otomasyonu_Qt-Qreator/assets/96475696/defea3f4-3c99-4178-8ca8-ec096c5efd8e)  
