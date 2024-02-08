@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/imagines">
+        <file>imagines/book.jpg</file>
+        <file>imagines/odunc_1.jpg</file>
+        <file>imagines/odunc_2.jpg</file>
+        <file>imagines/user.jpg</file>
+    </qresource>
+</RCC>
